@@ -10,6 +10,7 @@ namespace SimpleTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
