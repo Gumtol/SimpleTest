@@ -16,6 +16,7 @@ namespace SimpleTest
                 Console.Write("*");
                 Console.Write(" ");
                 Console.Write("!");
+                Console.Write("2");
             }
         }
     }
