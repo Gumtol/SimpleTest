@@ -16,7 +16,10 @@ namespace SimpleTest
                 Console.Write("*");
                 Console.Write(" ");
                 Console.Write("!");
+
+
             }
+            Console.WriteLine("1");
         }
     }
 }
