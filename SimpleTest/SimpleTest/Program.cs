@@ -23,7 +23,17 @@ namespace SimpleTest
                 Console.Write("2");
 
             }
+
+            int a = 0;
+
+            for(int i = 0;i<9;i++)
+            {
+                a += i;
+
+              
+            }
             Console.WriteLine("1");
+            Console.WriteLine(a);
         }
     }
 }
