@@ -41,8 +41,14 @@ namespace SimpleTest
 
             Console.WriteLine("5");
 
+<<<<<<< HEAD
             Console.WriteLine("333");
            
+=======
+            Console.WriteLine("222");
+
+
+>>>>>>> 0578459 (222)
         }
     }
 }
