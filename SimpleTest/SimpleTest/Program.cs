@@ -15,7 +15,6 @@ namespace SimpleTest
             {
                 Console.Write("*");
             }
-            Console.WriteLine("Today");
         }
     }
 }
