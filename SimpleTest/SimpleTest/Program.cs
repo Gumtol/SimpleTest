@@ -35,7 +35,7 @@ namespace SimpleTest
             Console.WriteLine("1");
             Console.WriteLine(a);
             Console.Write("3");
-            Console.Write("4");
+            
         }
     }
 }
