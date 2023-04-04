@@ -11,6 +11,10 @@ namespace SimpleTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            for(int i =0;i<8;i++)
+            {
+                Console.Write("*");
+            }
         }
     }
 }
